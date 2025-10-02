@@ -1,0 +1,1 @@
+/home/mahfujul_sagor/.config/omarchy/current/theme/neovim.lua
